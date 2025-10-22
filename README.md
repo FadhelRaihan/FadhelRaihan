@@ -1,16 +1,23 @@
-## Hi there 👋
+# **[Fadhel Raihan]**
 
-<!--
-**FadhelRaihan/FadhelRaihan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### [Full-Stack Developer | Software Engineer]
 
-Here are some ideas to get you started:
+Halo! Saya adalah seorang pengembang yang bersemangat dalam membangun solusi web yang efisien dan terstruktur, terutama menggunakan **[Laravel, React, atau Node.js]**. Saya percaya pada kode yang bersih, performa yang baik, dan desain yang berpusat pada pengguna.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### **✨ Keahlian Kunci**
+
+* **Backend & Framework:** [PHP, Python/Django, Node.js/Express, Laravel]
+* **Frontend & UI/UX:** [React, Vue.js, JavaScript (ES6+), Tailwind CSS, Bootstrap]
+* **Database:** [MySQL, SQLite]
+* **DevOps & Tools:** [Git/GitHub Actions]
+* **Metodologi:** [RESTful API Design, Agile]
+
+---
+
+**Mari Terhubung!**
+
+Saya terbuka untuk peluang kolaborasi, proyek *open source*, atau diskusi seputar teknologi. Jangan ragu untuk menghubungi saya melalui **[https://www.linkedin.com/in/fadhelraihan/]** atau cek proyek lainnya di repositori saya!
+
+*Happy Coding!* 🚀
