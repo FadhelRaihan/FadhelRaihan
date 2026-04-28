@@ -75,7 +75,7 @@ I specialize in developing web applications, LMS platforms, and SaaS products th
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<div align="start">
 
 ![FadhelRaihan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FadhelRaihan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
@@ -89,7 +89,7 @@ I specialize in developing web applications, LMS platforms, and SaaS products th
 
 ## 📫 Let's Connect
 
-<div align="center">
+<div align="start">
 
 Feel free to reach out — whether it's about a project, collaboration, or just a chat!
 
