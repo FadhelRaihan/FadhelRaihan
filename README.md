@@ -1,4 +1,4 @@
-<div align="center">
+<div align="start">
 
 # Hi there, I'm Fadhel Raihan 👋
 
