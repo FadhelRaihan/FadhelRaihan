@@ -99,6 +99,6 @@ Feel free to reach out — whether it's about a project, collaboration, or just 
 
 ---
 
-<div align="center">
+<div align="start">
   <img src="https://komarev.com/ghpvc/?username=FadhelRaihan&color=0A66C2&style=flat-square&label=Profile+Views" alt="profile views" />
 </div>
